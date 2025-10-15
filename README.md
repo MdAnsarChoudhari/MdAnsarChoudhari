@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋, I'm Muhammad Ansar Choudhari
 
-<!--
-**MdAnsarChoudhari/MdAnsarChoudhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎓 BCA Student | 2nd Semester  
+- 💻 Passionate about **Python, C, Web Development, and Data Structures**  
+- 🚗 Big car enthusiast — I love Rolls-Royce, Lamborghini, Mercedes-Maybach, and BMW  
+- 🎨 Interested in **graphic design** and creating car-related projects  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📫 Connect With Me
+- Instagram: [@trend_playzz](https://www.instagram.com/trend_playzz)  
+- Email: [muhammadansarchoudhari@gmail.com](mailto:muhammadansarchoudhari@gmail.com)  
+
+## ⚡ Fun Fact
+- I like to combine **coding + design** to make projects visually appealing  
+- Always learning, always experimenting 🚀  
+
